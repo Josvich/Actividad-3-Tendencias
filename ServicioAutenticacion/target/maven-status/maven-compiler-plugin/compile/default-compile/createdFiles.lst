@@ -1,0 +1,4 @@
+sv\Access.class
+com\mycompany\servicioautenticacion\JAXRSConfiguration.class
+com\mycompany\servicioautenticacion\resources\JavaEE8Resource.class
+model\User.class
